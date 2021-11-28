@@ -1,2 +1,10 @@
-# archives
-各种文件资源归档储藏仓库
+# FileArchive
+
+
+
+**Awesome Mac**
+
+各种各样的mac工具软件简介
+
+https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md
+
